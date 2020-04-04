@@ -39,7 +39,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyHolder> {
         myHolder.setItemClickListener(new ItemClickListener() {
             @Override
             public void onItemClickListener(View v, int position) {
-
             }
         });
     }
